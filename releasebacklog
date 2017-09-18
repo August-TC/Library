@@ -1,0 +1,57 @@
+Release Backlog 1				
+Sprint backlog 1	ID	Story	Estimation	Priority
+	45	As a reader, if I have certification of a librarian, I can register my own librarian account and have authority to manage the system	1	1
+	44	As a teacher, I want to sign a new account using my teacher's ID if I don‘t have one	1	2
+	46	As a student, I want to sign a new account using my student's ID if I don‘t have one	1	3
+	3	As a librarian,I want to add books to the library	2	4
+	43	As a authorized reader, I want to login in the system after entering the correct account number and password	1	5
+	9	As a librarian,I want to add readers	2	6
+	8	As a librarian,I want to delete books of library	2	7
+	14	As a librarian,I want to delete readers of the system	2	8
+	23	As a reader(authorized or unauthorized), I want to inquire book by the  name	1	9
+	24	As a reader(authorized or unauthorized),  I want to inquire book by the  ISBN	1	10
+	22	As a reader(authorized or unauthorized), I want to inquire book by the author	1	11
+	25	As a reader(authorized or unauthorized),  I want to inquire book by the  press	1	12
+	26	As a reader(authorized or unauthorized),  I want to use search box to input to inquire book	1	13
+	47	As a authorized reader, I want to refind their password if I don't remember it	1	14
+	41	As a authorized reader I want to refind password by phone number	1	15
+	42	As a authorized reader I want to refind password by email	1	16
+Sprint backlog 2	1	As a teacher, I want to borrow books 	2	17
+	2	As a student, I want to borrow books	2	18
+	49	As a request of borrowing books, the system check the books' status automatically and response if the book can be borrowed	1	19
+	20	As an student I borrow that the maximum number of the book is 15	1	20
+	21	As an teacher I borrow that the maximum number of the book is 20	1	21
+	28	As a authorized reader I want to select items that I inquired to borrow	1	22
+	18	As an teacher I want to return the book that he/she borrow	3	23
+	19	As an student I want to return the book that he/she borrow	3	24
+	15	As a reader,I want to view the number of books which readers can borrow	1	25
+				
+Release Backlog 2				
+Sprint backlog 3	ID	Story	Estimation	Priority
+	35	As a authorized reader I want to get the expired reminder	1	26
+	36	As a authorized reader I want to get the expired reminder by message logging	1	27
+	33	As a authorized reader I want to see my borrowed books	1	28
+	37	As a authorized reader I want to see the inquire history of borrowing by a list	1	29
+	34	As a authorized reader I want to see the time of the book I have borrowed	1	30
+	27	As a authorized reader I want to see the book I inquired by a list	1	31
+	38	As a reader I can see my personal information	1	32
+Sprint backlog 4	4	As a librarian,I want to modify borrowing status of books	2	33
+	5	As a librarian,I want to modify the number of books in the library	2	34
+	6	As a librarian,I want to modify the classification information of books 	2	35
+	7	As a librarian,I want to modify the introduction of books	2	36
+	10	As a librarian,I want to modify the number of books which readers can borrow	3	37
+	11	As a librarian,I want to modify the number of books which readers have borrowed	3	38
+	12	As a librarian,I want to modify the borrowing time of readers	2	39
+	13	As a librarian,I want to modify the password of readers	2	40
+	39	As a reader I can update my personal information	2	41
+				
+Release Backlog 3				
+Sprint backlog 5	ID	Story	Estimation	Priority
+	40	As a reader I can get one of 3 different authority through the certification	3	42
+	29	As a authorized reader I want to get recommended analogous books by my favourite author	1	43
+	30	As a authorized reader I want to get recommended analogous books by the type of book	1	44
+	31	As a authorized reader I want to see the recommended analogous books by a list	1	45
+	32	As a authorized reader I want to select recommended analogous books that I inquired to borrow	1	46
+	16	As a reader,I want to reserve books	1	47
+	48	As a request of reserving books, the system check the books' status automatically and response if the book can be reserved	1	48
+	17	As a reader,I want to cancel the reservation  	1	49
